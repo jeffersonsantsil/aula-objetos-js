@@ -1,0 +1,14 @@
+{
+  "nome": "Jefferson",
+  "email": "jeffersonsantsil@gmail.com",
+  "telefone": ["81993263429", "81992280838"],
+  "endereco": {
+    "rua": "José Augusto Soares",
+    "numero": 20,
+    "bairro": "Cajá",
+    "Cidade": "Vitória de Santo Antão",
+    "estado": "Pernambuco",
+    "apartamento": false,
+    "complemento": "Rua da piscina eventus."
+  }
+}
